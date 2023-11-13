@@ -1,0 +1,15 @@
+#webview {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+}
+
+body {
+    background-color: #000000;
+}
+
+#goButton {
+    background-color: blueviolet;
+    border-color:blueviolet ;
+    color: #fff;
+}
