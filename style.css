@@ -17,11 +17,12 @@ body {
 
 
 .gcse-search {
+    margin-top: 75px;
     background-color: #000;
 }
 
 
-span {
+.pgm {
     display: flex;
     justify-content: center;
     color: #fff;
